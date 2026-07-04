@@ -2136,6 +2136,7 @@
 			<CommonModule>ЭлектроннаяПодписьСлужебныйПовтИсп</CommonModule>
 			<CommonModule>ЭлектроннаяПодписьСлужебныйРФ</CommonModule>
 			<CommonModule>ЯндексПереводчик</CommonModule>
+			<CommonModule>ДемонстрацияSonar</CommonModule>
 			<CommonAttribute>КомментарийЯзык1</CommonAttribute>
 			<CommonAttribute>КомментарийЯзык2</CommonAttribute>
 			<CommonAttribute>НаименованиеЯзык1</CommonAttribute>

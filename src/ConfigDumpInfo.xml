@@ -3782,6 +3782,8 @@
 		<Metadata name="CommonModule.ДатыЗапретаИзмененияСлужебныйКлиентСервер.Module" id="70f156d8-9cb4-442d-a36b-7a43d03bcd12.0" configVersion="f1a4c686b4dca042805a4fa9c64b4b0000000000"/>
 		<Metadata name="CommonModule.ДатыЗапретаИзмененияСлужебныйПовтИсп" id="35989876-16b1-4b02-9381-444a06a7a21d" configVersion="8b9c66f48cc79e429afa64fc7ba92f1900000000"/>
 		<Metadata name="CommonModule.ДатыЗапретаИзмененияСлужебныйПовтИсп.Module" id="35989876-16b1-4b02-9381-444a06a7a21d.0" configVersion="ebbb4886e6b3504ab8f88551c23877dc00000000"/>
+		<Metadata name="CommonModule.ДемонстрацияSonar" id="bc872311-2af7-4102-9d90-9ac61960b76a" configVersion="0e5cd086a9d8ec419d9c3a9bf3acfe8900000000"/>
+		<Metadata name="CommonModule.ДемонстрацияSonar.Module" id="bc872311-2af7-4102-9d90-9ac61960b76a.0" configVersion="c0b2cbf7e22cf84f824c965ad5c68fce00000000"/>
 		<Metadata name="CommonModule.ДлительныеОперации" id="f7608000-1e8a-4ca4-afb7-e04ef547b70a" configVersion="684c423525abbe40b8313d8b0517623e00000000"/>
 		<Metadata name="CommonModule.ДлительныеОперации.Module" id="f7608000-1e8a-4ca4-afb7-e04ef547b70a.0" configVersion="2b659689c58f3246942d9b7cdba65d1b00000000"/>
 		<Metadata name="CommonModule.ДлительныеОперацииВызовСервера" id="f0a6de82-45ab-4153-bccf-df82fc960aa1" configVersion="89dd63e86fa8fb45a5a4eb1dc382aaf200000000"/>
@@ -6476,7 +6478,7 @@
 		<Metadata name="CommonTemplate.СтруктураПодчиненности.Template" id="7a62d031-c340-4b1e-90af-fff697a2e979.0" configVersion="709916f41ad29e468ca5343d3d94fdf000000000"/>
 		<Metadata name="CommonTemplate.ШтампЭлектроннойПодписиOfficeOpen" id="faf89779-2290-4d37-b1ea-e81b1b79f74c" configVersion="17f00105660d054ab8f271eb64eb7d2a00000000"/>
 		<Metadata name="CommonTemplate.ШтампЭлектроннойПодписиOfficeOpen.Template" id="faf89779-2290-4d37-b1ea-e81b1b79f74c.0" configVersion="e626d417c5da644bb0fde380502c8d7b00000000"/>
-		<Metadata name="Configuration.БиблиотекаСтандартныхПодсистемДемо" id="66193438-abc5-410b-a1f1-a204102d1a62" configVersion="6f0b46c030082d46afdb6cc1f3e5769100000000"/>
+		<Metadata name="Configuration.БиблиотекаСтандартныхПодсистемДемо" id="66193438-abc5-410b-a1f1-a204102d1a62" configVersion="00f65125139cfe4cbe91086dcc21cbe700000000"/>
 		<Metadata name="Configuration.БиблиотекаСтандартныхПодсистемДемо.ClientApplicationInterface" id="f389d417-7804-4810-a1c5-a13b3209ad71.b" configVersion="f88e4d74e5bbff479c88db6ca40ab15400000000"/>
 		<Metadata name="Configuration.БиблиотекаСтандартныхПодсистемДемо.CommandInterface" id="f389d417-7804-4810-a1c5-a13b3209ad71.a" configVersion="d0b96cfc915d044cacc8252e2448fe9800000000"/>
 		<Metadata name="Configuration.БиблиотекаСтандартныхПодсистемДемо.ExternalConnectionModule" id="f389d417-7804-4810-a1c5-a13b3209ad71.5" configVersion="2726bb7fd32c6b4db08c7d73b0c7da9700000000"/>
@@ -6486,7 +6488,7 @@
 		<Metadata name="Configuration.БиблиотекаСтандартныхПодсистемДемо.MainSectionPicture" id="f389d417-7804-4810-a1c5-a13b3209ad71.c" configVersion="7a6a05311abe79468753db82afffa35600000000"/>
 		<Metadata name="Configuration.БиблиотекаСтандартныхПодсистемДемо.ManagedApplicationModule" id="f389d417-7804-4810-a1c5-a13b3209ad71.6" configVersion="2c700488ae451f41aa3a5eaab1de53cf00000000"/>
 		<Metadata name="Configuration.БиблиотекаСтандартныхПодсистемДемо.OrdinaryApplicationModule" id="f389d417-7804-4810-a1c5-a13b3209ad71.0" configVersion="9ddd5afb3b66f94b8d40fc36b26d503400000000"/>
-		<Metadata name="Configuration.БиблиотекаСтандартныхПодсистемДемо.ParentConfigurations" id="f389d417-7804-4810-a1c5-a13b3209ad71.4" configVersion="c33ca3347c97b247aa677399d9b9008900000000"/>
+		<Metadata name="Configuration.БиблиотекаСтандартныхПодсистемДемо.ParentConfigurations" id="f389d417-7804-4810-a1c5-a13b3209ad71.4" configVersion="0d52e6606163d24ca9cf1ed6facf8cc000000000"/>
 		<Metadata name="Configuration.БиблиотекаСтандартныхПодсистемДемо.SessionModule" id="f389d417-7804-4810-a1c5-a13b3209ad71.7" configVersion="235ff72d929f5b4fafbc7d8180def83700000000"/>
 		<Metadata name="Configuration.БиблиотекаСтандартныхПодсистемДемо.Splash" id="f389d417-7804-4810-a1c5-a13b3209ad71.2" configVersion="283913442432e44ea4110fa27ec448d600000000"/>
 		<Metadata name="Configuration.БиблиотекаСтандартныхПодсистемДемо.StandaloneConfigurationContent" id="f389d417-7804-4810-a1c5-a13b3209ad71.f" configVersion="f4872026ab7cbc4e972074a8466fba3200000000"/>
